@@ -24,6 +24,8 @@ class Man {
       class ClassName extends AnotherClass
       {
       	public $name = "homosapean"
-      	
+      	public $breed = "human"
+        public $gender = "shemale"
+        public $price = "0"
       }
 ?>
