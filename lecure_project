@@ -31,5 +31,9 @@ class Man {
         public $price = "0"
       }
 
+    public function myMethod( $argument, $another){
+    	//stuff
+    }
+
 ?>
 
