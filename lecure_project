@@ -5,30 +5,30 @@ print $man1->name;
 //default name
 
 class Man {
-         public $name = "homosapean"
-         public $breed = "human"
-         public $gender = "male"
-         public $price = "0"
+         public $name = "homosapean";
+         public $breed = "human";
+         public $gender = "male";
+         public $price = "0";
 }
   $man2 = new Man(); 
     
     
     class
     {
-    	public $name = "homosapean"
-    	public $breed = "human"
-    	public $gender = "female"
-        public $price = "0"
+    	public $name = "homosapean";
+    	public $breed = "human";
+    	public $gender = "female";
+        public $price = "0";
     }
   
  $man3 = new Man();
 
       class ClassName extends AnotherClass
       {
-      	public $name = "homosapean"
-      	public $breed = "human"
-        public $gender = "shemale"
-        public $price = "0"
+      	public $name = "homosapean";
+      	public $breed = "human";
+        public $gender = "shemale";
+        public $price = "0";
       }
 
     public function myMethod( $argument, $another){
