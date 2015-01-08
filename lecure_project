@@ -1,6 +1,8 @@
 <?php 
 
 $man1 = new Man();
+print $man1->name;
+//default name
 
 class Man {
          public $name = "homosapean"
@@ -28,4 +30,6 @@ class Man {
         public $gender = "shemale"
         public $price = "0"
       }
+
 ?>
+
