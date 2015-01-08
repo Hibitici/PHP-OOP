@@ -1,12 +1,29 @@
 <?php 
 
-$dog1 = new Man();
+$man1 = new Man();
 
 class Man {
          public $name = "homosapean"
-         public $breed = " white"
+         public $breed = "human"
          public $gender = "male"
          public $price = "0"
 }
+  $man2 = new Man(); 
+    
+    
+    class
+    {
+    	public $name = "homosapean"
+    	public $breed = "human"
+    	public $gender = "female"
+        public $price = "0"
+    }
+  
+ $man3 = new Man();
 
+      class ClassName extends AnotherClass
+      {
+      	public $name = "homosapean"
+      	
+      }
 ?>
