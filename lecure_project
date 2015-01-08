@@ -1,4 +1,12 @@
 <?php 
 
+$dog1 = new Man();
+
+class Man {
+         public $name = "homosapean"
+         public $breed = " white"
+         public $gender = "male"
+         public $price = "0"
+}
 
 ?>
