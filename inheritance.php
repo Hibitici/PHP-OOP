@@ -11,6 +11,11 @@
        public $screem;
     
        function_construct($jake,$smith,$homosapian,$male,$weight,$talk,$screem){
+                      $this->scientificName = $homosapian;
+                      
+
+
+
 
   }
     
