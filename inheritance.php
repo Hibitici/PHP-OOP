@@ -9,11 +9,13 @@
        public $weight;
        public $talk;
        public $screem;
-    }
+    
        function_construct($jake,$smith,$homosapian,$male,$weight,$talk,$screem){
 
   }
-
-
-
+    
+        function getName() {
+          return "jake" . $this->firstname.
+          "smith" . $this->lastname;
+        }
 ?>
