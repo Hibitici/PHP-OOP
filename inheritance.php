@@ -1,27 +1,19 @@
 <?php 
 
-$ = new Man();
-print $->name;
-//default name
+  class person {
 
-class Man {
-       }
-  $ = new Man(); 
-    
-    
-    class
-    {
-    	
+       public $jake;
+       public $smith;
+       public $homosapian;
+       public $male;
+       public $weight;
+       public $talk;
+       public $screem;
     }
-  
- $ = new Man();
+       function_construct($jake,$smith,$homosapian,$male,$weight,$talk,$screem){
 
-      class ClassName extends AnotherClass
-      {
-      }
+  }
 
-    public function myMethod( $argument, $another){
-    	//stuff
-    }
+
 
 ?>
