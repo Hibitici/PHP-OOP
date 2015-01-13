@@ -1,0 +1,17 @@
+<?php 
+
+
+class man()
+
+     public $walk , public $run , public $sleep , public $eat , public $sit , public $talk,
+
+public function move(){
+	
+	return "man can move"
+
+}
+
+
+?>
+
+
