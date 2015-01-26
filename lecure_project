@@ -10,9 +10,21 @@ class Man {
          public $gender = "male";
          public $price = "0";
 }
-  $man2 = new Man(); 
-    
-    
+ 
+     function_construct($name,$breed,$gender,$price){
+
+      $this->name = $name;
+      $this->breed = $breed;
+      $this->gender = $gender;
+      $this->price = $price;
+}
+    function getName(){
+      return "this is my" . $this->name.
+      "and last" . $this->breed . 
+      "and this is my gender" . $this->gender . ".";
+    }
+
+  
     class
     {
     	public $name = "homosapean";
